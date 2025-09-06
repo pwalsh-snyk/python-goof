@@ -8,3 +8,4 @@ lxml
 pyquery
 requests
 soco
+xmltodict>=0.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
